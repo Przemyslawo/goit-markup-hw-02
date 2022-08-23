@@ -1,0 +1,275 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  width: 1600px;
+  height: 2349px;
+
+  background: #ffffff;
+}
+:root {
+  --black: #000;
+  --blue: #2196f3;
+  --grey: #757575;
+  --dark: #2f303a;
+  --white: #ffff;
+  --black2: #212121;
+  --white2gray: #f5f4fa;
+}
+
+/*Header-----------------------*/
+
+.mainpages {
+  list-style: none;
+  display: flex;
+}
+.text-webstudio {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 260px;
+  line-height: 1.193;
+  text-decoration: none;
+
+  width: 145px;
+  height: 31px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+}
+.text-webstudio > span {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.text-list {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.172;
+  text-decoration: none;
+  color: var(--black);
+}
+.list-menu {
+  list-style: none;
+}
+.text-contact {
+  color: var(--grey);
+  text-decoration: none;
+}
+
+/*Main-------------------*/
+.main-title {
+  font-weight: 900;
+  font-size: 44px;
+  color: var(--white);
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.background-dark {
+  padding: 231px 0;
+  background-color: var(--dark);
+}
+.button {
+  color: var(--white);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  background-color: var(--blue);
+  border-style: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 430px;
+}
+/*Loren------------------*/
+
+.strengths {
+  position: absolute;
+  width: 1170px;
+  height: 101px;
+  left: 215px;
+  top: 774px;
+  list-style: none;
+  display: flex;
+}
+.strengths-head {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.143;
+  color: var(--black2);
+}
+.strengths-contents {
+  font-size: 14px;
+  line-height: 1.72;
+  width: 270px;
+  height: 75px;
+  color: var(--grey);
+}
+/*Our Work---------------------*/
+.our-work {
+  position: absolute;
+  width: 352px;
+  height: 42px;
+  left: 624px;
+  top: 969px;
+  font-family: "Roboto";
+  font-style: normal;
+  color: var(--black2);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+}
+.our-images {
+  list-style: none;
+  display: flex;
+}
+.code-work {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1061px;
+}
+.apps {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1061px;
+}
+.webside {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1061px;
+}
+/*Our Team-------------------------*/
+.our-team {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: var(--black2);
+}
+.team-list {
+  list-style: none;
+  display: flex;
+
+  width: 1170px;
+  height: 368px;
+  left: 215px;
+  top: 1635px;
+}
+.team-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--black2);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+}
+.team-profession {
+  color: var(--grey);
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  letter-spacing: 0.03em;
+}
+.background-gray {
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1449px;
+
+  background: #f5f4fa;
+  padding: 2px 0;
+  background-color: var(--white2gray);
+}
+/*adress------------------*/
+.footer {
+  position: absolute;
+  background-color: var(--dark);
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 2097px;
+  display: flex;
+}
+.text-webstudio2 {
+  color: rgb(255, 255, 255);
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 260px;
+  line-height: 1.193;
+  text-decoration: none;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+}
+.text-webstudio > span {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.footer-logo {
+  color: var(--white);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.193;
+}
+.adress-list {
+  list-style: none;
+}
+.address-text {
+  color: var(--white);
+  font-size: 14px;
+  line-height: 1.71;
+}
+.address-link {
+  color: var(--grey);
+  font-size: 14px;
+  line-height: 1.71;
+  text-decoration: none;
+}
+.text-webstudio2 > span {
+  color: var(--blue);
+}
