@@ -273,3 +273,414 @@ body {
 .text-webstudio2 > span {
   color: var(--blue);
 }
+/*PORTFOLIO------------------------------------------------*/
+.buton-portfolio {
+  margin-right: 10px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: var(--black);
+}
+.list-filters {
+  list-style: none;
+  display: flex;
+  width: 572px;
+  height: 54px;
+  left: 510px;
+  top: 174px;
+  margin-left: 510px;
+}
+.portfolio-images {
+  list-style: none;
+}
+.portfolio-technorock {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-webside {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 616px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-1 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 262px;
+}
+.project-2 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 262px;
+}
+.portfolio-Orlean {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-dizajn {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 616px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.project-3 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 262px;
+}
+.portfolio-seafood {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-app {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 616px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-4 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 696px;
+}
+.portfolio-prime {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 1010px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-marketing {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-5 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 696px;
+}
+.portfolio-boxes {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 1010px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-app2 {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-6 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 696px;
+}
+.portfolio-inspiration {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 1010px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-web2 {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-7 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1130px;
+}
+.portfolio-Magazine {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-dizajn2 {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.project-8 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1130px;
+}
+.portfolio-lab {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-marketing2 {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.project-9 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1130px;
+}
+.portfolio-growing {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.portfolio-app3 {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
